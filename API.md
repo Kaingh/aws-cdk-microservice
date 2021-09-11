@@ -4,7 +4,7 @@
 
 ### AutoScaler <a name="@smallcase/aws-cdk-microservice.AutoScaler"></a>
 
-#### Initializer <a name="@smallcase/aws-cdk-microservice.AutoScaler.Initializer"></a>
+#### Initializers <a name="@smallcase/aws-cdk-microservice.AutoScaler.Initializer"></a>
 
 ```typescript
 import { AutoScaler } from '@smallcase/aws-cdk-microservice'
@@ -43,7 +43,7 @@ new AutoScaler(scope: Construct, id: string, props: AutoScalerProps)
 
 ### BalancerEntry <a name="@smallcase/aws-cdk-microservice.BalancerEntry"></a>
 
-#### Initializer <a name="@smallcase/aws-cdk-microservice.BalancerEntry.Initializer"></a>
+#### Initializers <a name="@smallcase/aws-cdk-microservice.BalancerEntry.Initializer"></a>
 
 ```typescript
 import { BalancerEntry } from '@smallcase/aws-cdk-microservice'
@@ -75,7 +75,7 @@ new BalancerEntry(scope: Construct, id: string, props: LoadBalancerProps)
 
 ### Deployment <a name="@smallcase/aws-cdk-microservice.Deployment"></a>
 
-#### Initializer <a name="@smallcase/aws-cdk-microservice.Deployment.Initializer"></a>
+#### Initializers <a name="@smallcase/aws-cdk-microservice.Deployment.Initializer"></a>
 
 ```typescript
 import { Deployment } from '@smallcase/aws-cdk-microservice'
@@ -107,7 +107,7 @@ new Deployment(scope: Construct, id: string, props: DeploymentProps)
 
 ### MicroService <a name="@smallcase/aws-cdk-microservice.MicroService"></a>
 
-#### Initializer <a name="@smallcase/aws-cdk-microservice.MicroService.Initializer"></a>
+#### Initializers <a name="@smallcase/aws-cdk-microservice.MicroService.Initializer"></a>
 
 ```typescript
 import { MicroService } from '@smallcase/aws-cdk-microservice'
